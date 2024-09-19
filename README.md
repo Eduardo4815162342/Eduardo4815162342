@@ -19,7 +19,7 @@ Um microserviço para análise de sentimentos, utilizando AWS Lambda, DynamoDB e
 - **Linguagens**: Java, Python, JavaScript, entre outras
 - **Frameworks**: NestJS, Spring Boot
 - **Ferramentas de Nuvem**: AWS (Lambda, DynamoDB, Comprehend)
-- **Banco de Dados**: MySQL, MongoDB
+- **Banco de Dados**: MySQL, MongoDB, Postgress
 
 ## 💡 Sobre Mim
 Quaaaase formado em Sistemas de Informação, sempre em busca de novos desafios e aprendizados. Gosto de explorar diferentes áreas da tecnologia, desde desenvolvimento web até computação em nuvem e inteligência artificial.
