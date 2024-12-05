@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-a-oliveira/)](https://www.linkedin.com/in/eduardo-a-oliveira/)
 [![GitHub Badge](https://img.shields.io/badge/-@Eduardo4815162342-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Eduardo4815162342)](https://github.com/Eduardo4815162342)
 
-Estudante da UFMS, Apaixonado por programação e desenvolvimento de software. Aqui você encontrará alguns dos projetos nos quais tenho trabalhado.
+Graduado em Sistemas de Informação, Apaixonado por programação e desenvolvimento de software. Aqui você encontrará alguns dos projetos nos quais tenho trabalhado.
 
 ## 📌 Projetos Destacados
 
@@ -22,7 +22,7 @@ Um microserviço para análise de sentimentos, utilizando AWS Lambda, DynamoDB e
 - **Banco de Dados**: MySQL, MongoDB, Postgress
 
 ## 💡 Sobre Mim
-Quaaaase formado em Sistemas de Informação, sempre em busca de novos desafios e aprendizados. Gosto de explorar diferentes áreas da tecnologia, desde desenvolvimento web até computação em nuvem e inteligência artificial.
+Formado em Sistemas de Informação, pela Universidade Federal do Mato Grosso do Sul (UFMS), sempre em busca de novos desafios e aprendizados. Gosto de explorar diferentes áreas da tecnologia, desde desenvolvimento web até computação em nuvem e inteligência artificial.
 
 ## 📈 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Eduardo4815162342&show_icons=true&theme=radical)
